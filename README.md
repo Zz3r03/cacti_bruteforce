@@ -1,6 +1,6 @@
 # cacti_bruteforce
 Cacti bruteforce made in python.
-I know it can be optimized much more and python is not the fastes programming language, but needed to do a quick password spray and I quickly did this script.
+I know it can be optimized much more and python is not the fastest programming language for doing this type of work, but needed to do a quick password spray and I quickly did this script.
 
 ## Usage:
 ```
